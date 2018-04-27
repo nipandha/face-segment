@@ -1,3 +1,4 @@
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 This is the implementation of ‘Scaled Neural Style Transfer for Bounded Face Regions’
 
 I) To create a regular Neural Style Image Transfer:
